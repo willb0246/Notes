@@ -1,2 +1,2 @@
 # Notes
-#This is a personal notes app for myself#
+# This is a personal notes app for myself #
